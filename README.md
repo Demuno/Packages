@@ -1,6 +1,6 @@
 # Gestão de Aluno, Disciplina e Professor
 
-Este repositório contém pacotes desenvolvidos em PL/SQL para realizar operações relacionadas às entidades **Aluno**, **Disciplina** e **Professor** em um banco de dados Oracle.
+Nesse repositório, a ideia é criar pacotes desenvolvidos em PL/SQL para realizar operações relacionadas às entidades **Aluno**, **Disciplina** e **Professor** em um banco de dados Oracle.
 
 ## Estrutura do Projeto
 
